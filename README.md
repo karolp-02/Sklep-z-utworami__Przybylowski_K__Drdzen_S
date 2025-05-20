@@ -1,3 +1,4 @@
+# Sklep z utworami muzycznymi
 Aplikacja jest implementacją prostego sklepu z utworami muzycznymi.
 
 Do prawidłowego działania konieczne jest połączenie z bazą danych, która przechowuje informacje o utworach, klientach i transakcjach.
